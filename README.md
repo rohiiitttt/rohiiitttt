@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Rohit Gupta!<br><br>🎓 A 20-year-old tech enthusiast pursuing B.Tech in Computer Science at GLA University.<br><br>💻 Currently in my third year, focusing on 🌐 Web Development and mastering 📊 Data Structures & Algorithms in ☕ Java.<br><br>🚀 Passionate about solving problems, learning new technologies, and building ⚙️ efficient solutions.<br><br>🤝 Always open to collaborating on projects, sharing knowledge, and exploring new opportunities in tech.<br><br>Let’s connect and ✨ create something amazing together!
+👋 Hi, I'm Rohit Gupta!<br><br>🎓 A 21-year-old tech enthusiast pursuing B.Tech in Computer Science at GLA University.<br><br>💻 Currently in my third year, focusing on 🌐 Web Development and mastering 📊 Data Structures & Algorithms in ☕ Java.<br><br>🚀 Passionate about solving problems, learning new technologies, and building ⚙️ efficient solutions.<br><br>🤝 Always open to collaborating on projects, sharing knowledge, and exploring new opportunities in tech.<br><br>Let’s connect and ✨ create something amazing together!
 
 
 ## 🌐 Socials:
